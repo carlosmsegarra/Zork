@@ -3,9 +3,9 @@
 The author of this Zork version is myself, Carlos Martinez.
 
  The instructions are very simple:
--You can move in the map with the commands north/south/east/west and n/s/e/w
+-You can move in the map with the commands north/south/east/west , n/s/e/w and go north/go south/go east/go west
 
--To exit the program you have to write the command 'exit' when the game asks which direction do you want to go.
+-To exit the program you have to write the command 'exit' or 'quit' when the game asks which direction do you want to go.
 
 -If you are lost check the map that I have in my Github :)
 
