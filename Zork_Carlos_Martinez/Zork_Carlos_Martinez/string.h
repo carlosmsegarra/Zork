@@ -1,6 +1,6 @@
 #ifndef __STRING__
 #define __STRING__
-
+#include <string>
 typedef unsigned int uint;
 
 class my_string{
