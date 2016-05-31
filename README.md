@@ -1,4 +1,4 @@
-#Zork v2.0
+#Zork v3.0
 
 The author of this Zork version is myself, Carlos Martinez.
 
