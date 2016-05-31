@@ -81,6 +81,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="linked_list.h" />
     <ClInclude Include="my_vector.h" />
     <ClInclude Include="string.h" />
   </ItemGroup>
