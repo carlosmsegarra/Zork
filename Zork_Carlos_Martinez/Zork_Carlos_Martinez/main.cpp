@@ -251,6 +251,9 @@ int main(){
 
 	}
 
+	delete dad;
+	delete[] Exits;
+	delete[] Rooms;
 
 
 	return 0;
