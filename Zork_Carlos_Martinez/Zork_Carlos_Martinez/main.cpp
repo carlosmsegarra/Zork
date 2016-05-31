@@ -1,5 +1,13 @@
 #include <iostream>
 #include <string>
+#include <Windows.h>
+#include "stdio.h"
+#include "stdlib.h"
+#include "conio.h"
+
+
+
+
 
 using namespace std;
 
