@@ -3,8 +3,6 @@
 
 typedef unsigned int uint;
 
-//http://stackoverflow.com/questions/2843421/custom-string-class-c
-
 class my_string{
 	char* str;
 	uint size;
@@ -29,7 +27,7 @@ public:
 		str = nullptr;
 	};
 
-	uint length() const{ //this method cannot change anything inside the class
+	uint length() const{ 
 		return strlen(str);
 	}
 
@@ -54,14 +52,6 @@ public:
 		return str;
 	}
 
-	/*
-	if (strcmp(str, s2.c_str()) == 0){
-		return true;
-	}
-	else{
-		return false;
-	}
-	*/
 
 };
 
