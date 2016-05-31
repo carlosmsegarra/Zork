@@ -1,6 +1,7 @@
 #ifndef __VECTOR__H_
 #define __VECTOR__H_
-
+#include <iostream>
+#include <string>
 
 template <class T>
 class LinkedList{
